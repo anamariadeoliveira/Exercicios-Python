@@ -1,2 +1,2 @@
-# Exercicios Python
+# Exercícios Python
 Meu primeiro repositório no GitHub
